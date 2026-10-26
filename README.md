@@ -16,6 +16,7 @@ The language rules draw on Turabian and on Andrej Karpathy's suggestion to use a
 - [MEETING_NOTE_TEMPLATE.md](MEETING_NOTE_TEMPLATE.md): itemized weekly note with labeled bullets.
 - [PAPER_TEMPLATE.md](PAPER_TEMPLATE.md): research paper planning and drafting scaffold.
 - [TURABIAN_NOTES.md](TURABIAN_NOTES.md): the book-based rationale and section references.
+- [references/turabian_8th_summary.md](references/turabian_8th_summary.md): a working summary of the full book and its application here.
 - [references/karpathy_2026_original.md](references/karpathy_2026_original.md): Karpathy's original post, short excerpts, and a source link.
 - [references/asd_ste100_official.md](references/asd_ste100_official.md): the official specification link and the rules adapted here.
 
