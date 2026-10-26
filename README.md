@@ -8,12 +8,16 @@ For each **substantive item**, state its purpose, why that purpose matters, and 
 
 Use one technical term for one concept. Keep sentences short and specific. State uncertainty and missing evidence plainly.
 
+The language rules draw on Turabian and on Andrej Karpathy's suggestion to use a *loose* ASD-STE100 style for clearer AI explanations. This is a readability target, not a claim of compliance with the aerospace specification. Preserve scientific terms, qualifications, and the target venue's style.
+
 ## Files
 
 - [PROMPT.md](PROMPT.md): reusable instructions for a writing assistant.
 - [MEETING_NOTE_TEMPLATE.md](MEETING_NOTE_TEMPLATE.md): itemized weekly note with labeled bullets.
 - [PAPER_TEMPLATE.md](PAPER_TEMPLATE.md): research paper planning and drafting scaffold.
 - [TURABIAN_NOTES.md](TURABIAN_NOTES.md): the book-based rationale and section references.
+- [references/karpathy_2026_original.md](references/karpathy_2026_original.md): Karpathy's original post, short excerpts, and a source link.
+- [references/asd_ste100_official.md](references/asd_ste100_official.md): the official specification link and the rules adapted here.
 
 ## Use
 
