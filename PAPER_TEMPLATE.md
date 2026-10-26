@@ -28,3 +28,5 @@ For each results paragraph, draft this compact check before writing prose:
 For each figure, check: question or point; matched definitions and units; visible result; caption; source; interpretation in the text. A side-by-side comparison also needs a common basis and a note on any unmatched assumptions.
 
 Before finalizing a claim, ask: Does the evidence support its reason? Why does that reason support the claim? What plausible alternative or exception would change the conclusion?
+
+Style check: Use one term for each concept. Shorten a sentence when it carries several claims, but keep technical definitions and qualifications needed for accuracy. Do not claim that this paper follows the formal ASD-STE100 specification.
